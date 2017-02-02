@@ -1,0 +1,17 @@
+a = ce qui se trouve dans la case i est mis a l'étoile
+la case i est mise a null
+puis concat a avec chaque case et remmettre dans la case
+
+{
+partir du bas, essayer arden dessus 
+puis remplacement dans toutes les supérieures par cette ligne
+
+} jusqu'a etre à la premiere
+
+{
+remplacement de la premiere dans toutes les inférieures
+} jusqu'a etre en bas
+
+pour arden :
+
+l'expression est l'union de toutes les expressions correspondant aux états initiaux.
